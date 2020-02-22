@@ -32,16 +32,21 @@ Compressed files with both model bin and token vectors:
 CBOW Models [1,2]
 
 [T300]() 17GB
+
 [T600]() 
 
-Skip-gram [2]
+Skip-gram Models [2]
 
-[T300SG embeddings](https://www.dropbox.com/s/ctk8uxjfqo09fkl/T300SG.zip?dl=0) 17GB
+[T300SG](https://www.dropbox.com/s/ctk8uxjfqo09fkl/T300SG.zip?dl=0) 17GB
+
+[T600SG] ()
+
 
 
 ## References
 When using our pre-trained models for your application, please cite the following papers:
 1.  Yogarajan,  V.,  Gouk,  H.,  Smith,  T.,  Mayo,  M.,  Pfahringer,  B.:  Comparing  High  Dimensional Word Embeddings Trained on Medical Text to Bag-of-Words For Predicting Medical  Codes.   Proceedings  of  the  Asian  Conference  on  Intelligent  Information  andDatabase  Systems  (ACIIDS  2020).  In  N.  T.  Nguyen  et  al.  (Eds.),  Lecture  Notes  on Artificial Intelligence (LNAI), Springer Nature. (to appear). 12033, 1–12 (2020)
-2. 
+
+2. Yogarajan, V., Montiel, J., Smith, T.,  Pfahringer,  B.: Seeing The Whole Patient: Using Multi-Label Medical Text Classification Techniques to Enhance Predictions of Medical Codes. (in submission).
 
 
