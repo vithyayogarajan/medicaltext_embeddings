@@ -16,15 +16,32 @@ The TREC precision medicine/clinical decision support track 2017 [TREC2017](http
 The clinical notes from [MIMIC-III Clinical Database](https://physionet.org/works/MIMICIIIClinicalDatabase/access.shtml) used for experiments. See publications for details of the results. 
 
 
-| Model | Dimensions | Training Time* | Model Size  |
+| Model | Dimensions | Training Time | Model Size  |
 | :------ | --------: | --------: | -----: |
 | T300 | 300  |7 hours | 13G |
 | T300SG | 300 | 28 hours | 13G |
 | T600 | 600 | 13 hours | 23G |
 | T600SG | 600 | 51 hours | 23G |
 
-* Processing was run on a 4 core Intel i7-6700K CPU @ 4.00GHz with 64GB of RAM.
+Training time calculated based on processing run on a 4 core Intel i7-6700K CPU @ 4.00GHz with 64GB of RAM.
+
+## Embeddings
+
+Compressed files with both model bin and token vectors: 
+
+CBOW Models [1,2]
+
+[T300]() 17GB
+[T600]() 
+
+Skip-gram [2]
+
+[T300SG embeddings](https://www.dropbox.com/s/ctk8uxjfqo09fkl/T300SG.zip?dl=0) 17GB
 
 
+## References
+When using our pre-trained models for your application, please cite the following papers:
+1.  Yogarajan,  V.,  Gouk,  H.,  Smith,  T.,  Mayo,  M.,  Pfahringer,  B.:  Comparing  High  Dimensional Word Embeddings Trained on Medical Text to Bag-of-Words For Predicting Medical  Codes.   Proceedings  of  the  Asian  Conference  on  Intelligent  Information  andDatabase  Systems  (ACIIDS  2020).  In  N.  T.  Nguyen  et  al.  (Eds.),  Lecture  Notes  on Artificial Intelligence (LNAI), Springer Nature. (to appear). 12033, 1–12 (2020)
+2. 
 
-[T300SG embeddings](https://www.dropbox.com/s/ctk8uxjfqo09fkl/T300SG.zip?dl=0)
+
