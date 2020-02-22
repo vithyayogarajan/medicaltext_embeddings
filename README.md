@@ -31,7 +31,7 @@ Compressed files with both model bin and token vectors:
 
 CBOW Models [1,2]
 
-[T300]() 17GB
+[T300](https://www.dropbox.com/s/xyxbldlkumjl4wc/T300.zip?dl=0) 17GB
 
 [T600]() 
 
