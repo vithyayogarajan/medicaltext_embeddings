@@ -32,13 +32,11 @@ Compressed files with both model bin and token vectors:
 CBOW Models [1,2]
 
 [T300]() 17GB
-
 [T600]() 
 
 Skip-gram Models [2]
 
 [T300SG](https://www.dropbox.com/s/ctk8uxjfqo09fkl/T300SG.zip?dl=0) 17GB
-
 [T600SG] ()
 
 
