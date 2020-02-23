@@ -23,7 +23,7 @@ The clinical notes from [MIMIC-III Clinical Database](https://physionet.org/work
 | T600 | 600 | 13 hours | 23G |
 | T600SG | 600 | 51 hours | 23G |
 
-Training time calculated based on processing run on a 4 core Intel i7-6700K CPU @ 4.00GHz with 64GB of RAM.
+Training time is calculated based on processing run on a 4 core Intel i7-6700K CPU @ 4.00GHz with 64GB of RAM.
 
 ## Embeddings
 
