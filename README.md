@@ -1,4 +1,4 @@
-# Health-related Document level Embeddings
+# Health-Related Document Level Embeddings
 
 
 ## Training Embeddings 
