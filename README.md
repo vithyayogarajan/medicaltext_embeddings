@@ -25,7 +25,7 @@ The clinical notes from [MIMIC-III Clinical Database](https://physionet.org/work
 
 Training time is calculated based on processing run on a 4 core Intel i7-6700K CPU @ 4.00GHz with 64GB of RAM.
 
-## Embeddings
+## Embeddings - Downloads
 
 Compressed files with both model bin and token vectors: 
 
