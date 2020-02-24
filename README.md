@@ -33,7 +33,7 @@ Compressed files with both model bin and token vectors:
 
   [T300](https://www.dropbox.com/s/xyxbldlkumjl4wc/T300.zip?dl=0) (download zip file size: 17GB)
 
-  [T600]() (download zip file size: 34GB)
+  [T600](https://www.dropbox.com/s/u1empf7bx4pif7p/T600.zip?dl=0) (download zip file size: 34GB)
 
 - Skip-gram Models [2]
 
