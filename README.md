@@ -39,7 +39,7 @@ Compressed files with both model bin and token vectors:
 
   [T300SG](https://www.dropbox.com/s/ctk8uxjfqo09fkl/T300SG.zip?dl=0) (download zip file size: 17GB)
 
-  [T600SG]() (download zip file size: 34GB)
+  [T600SG](https://www.dropbox.com/s/pm0g99itn1d4pp3/T600SG.zip?dl=0) (download zip file size: 34GB)
 
 
 
