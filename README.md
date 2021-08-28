@@ -25,24 +25,6 @@ The clinical notes from [MIMIC-III Clinical Database](https://physionet.org/work
 
 Training time is calculated based on processing run on a 4 core Intel i7-6700K CPU @ 4.00GHz with 64GB of RAM.
 
-## Embeddings - Downloads
-
-Compressed files with both model bin and token vectors: 
-
-- CBOW Models [1,2]
-
-  [T300](https://www.dropbox.com/s/xyxbldlkumjl4wc/T300.zip?dl=0) (download zip file size: 17GB)
-
-  [T600.bin](https://www.dropbox.com/s/0bz8is8a1h3ib88/T600bin.zip?dl=0) [T600.vec](https://www.dropbox.com/s/rz2irb1gx7atyes/T600vec.zip?dl=0) (download zip file size: 34GB)
-
-- Skip-gram Models [2]
-
-  [T300SG](https://www.dropbox.com/s/ctk8uxjfqo09fkl/T300SG.zip?dl=0) (download zip file size: 17GB)
-
-  [T600SG.bin](https://www.dropbox.com/s/uueo6bv72ycem1e/T600SGbin.zip?dl=0) [T600SG.vec](https://www.dropbox.com/s/ys9b2a90ldwuenc/T600SGvec.zip?dl=0) (download zip file size: 34GB)
-
-
-
 ## References
 When using our pre-trained models for your application, please cite the following papers:
 1.  Yogarajan,  V.,  Gouk,  H.,  Smith,  T.,  Mayo,  M.,  Pfahringer,  B.:  Comparing  High  Dimensional Word Embeddings Trained on Medical Text to Bag-of-Words For Predicting Medical  Codes.   Proceedings  of  the  Asian  Conference  on  Intelligent  Information  andDatabase  Systems  (ACIIDS  2020).  In  N.  T.  Nguyen  et  al.  (Eds.),  Lecture  Notes  on Artificial Intelligence (LNAI), Springer Nature. (to appear). 12033, 1–12 (2020)
